@@ -1,3 +1,4 @@
+# Instructions to test UT IOT Wi-Fi connections
 - Plug in your ESP32 to your computer
 - Open Arduino IDE
 - Go to Board Manager and install ESP32 by Espressif Systems
