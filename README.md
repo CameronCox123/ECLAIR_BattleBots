@@ -7,6 +7,7 @@ Google Drive: https://drive.google.com/drive/folders/1DuSL4JZFSUbaQCIqhIKZYdXfPg
 - 3D Models for the components
 
 Notion Space: https://www.notion.so/Battle-Bot-Teamspace-Home-2024-638f4c93928f4fb19ce7095f41a28c44?pvs=4
+- Documentation to help make a bot
 - Robot competition Rules
 - Robot constraints
 - Part information
