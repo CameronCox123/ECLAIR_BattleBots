@@ -9,5 +9,5 @@ Notion Space: https://www.notion.so/Battle-Bot-Teamspace-Home-2024-638f4c93928f4
 # UT_IOT_Connections
 **- Contains tutorials to connect an ESP32 to the utexas-iot network**
 
-# Web_Server_Scripts
+# WebServerScripts
 **- Contains the scripts that corrospond with the wiring schematics**
